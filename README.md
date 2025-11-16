@@ -1,4 +1,4 @@
-# Hotel-Sales-Dashboard-Tableau (Tableau)
+# Hotel Sales Dashboard in Tableau
 
 
 ## 🎯 Problem Statement
