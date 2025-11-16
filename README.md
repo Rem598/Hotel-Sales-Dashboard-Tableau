@@ -33,7 +33,6 @@ The dataset captures daily transactions for 12 key food items. Data was first cl
 
 The Tableau dashboard provides an interactive view of performance metrics, including time-series charts for revenue trends and bar charts for item popularity.
 
-(Replace the link below with the actual URL to your uploaded dashboard image)
 
 ![Hotel Food Sales Dashboard in Tableau](https://github.com/Rem598/Hotel-Sales-Dashboard-Tableau/blob/main/Hotel%20dashboard.png)
 
