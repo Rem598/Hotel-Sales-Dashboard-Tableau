@@ -16,7 +16,7 @@ This project involves the analysis and visualization of daily food sales data fr
 The dashboard was specifically designed to address these core business objectives:
 1.  **Revenue Generation:** Analyze which of the 12 food items contribute most to total revenue.
 2.  **Trend Analysis:** Identify consistent weekly and seasonal sales trends (e.g., specific days or holidays).
-3.  **Optimization:** Use demand patterns (lunch vs. dinner) to recommend stock and pricing adjustments.
+3.  **Optimization:** Use demand patterns  to recommend stock and pricing adjustments.
 
 ---
 
